@@ -1,0 +1,48 @@
+nav
+/* To change font on the menu */
+{
+    font-family: 'Fira Sans', sans-serif; !important;
+}
+
+.centered
+/* To main block of content */
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-left: auto;
+    margin-right: auto
+}
+
+.morecenter
+/* To center images */
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+
+}
+
+P
+/* making paragraphs centered */
+{
+    text-align: center
+}
+
+.title
+/* Title font and color */
+{
+    font-family: 'Fira Sans', sans-serif;
+    text-align: center;
+    color: black;
+}
+
+.subtitle
+/* Sub title font and color */
+{
+    font-family: 'Fira Sans', sans-serif;
+    text-align: center;
+    color: grey;
+}
+
